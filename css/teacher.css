@@ -1,0 +1,19 @@
+
+.muellim{
+    display: flex;
+    gap: 40px ;
+    margin-left: 50px;
+}
+.gold{
+    color:rgb(218,165,32);
+}
+.gold:hover{
+    transition: 1s;
+    transform: scale(1.09);
+    cursor: pointer;
+}
+.muellim img:hover{
+    transition: 1s;
+    transform: scale(1.2);
+    cursor: pointer;
+}
